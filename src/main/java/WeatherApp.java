@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-public class Parser {
+public class WeatherApp {
 
     public static void main(String[] args) throws IOException {
 
